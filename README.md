@@ -1,2 +1,3 @@
 # datascience
-Programming Assignments from MIPT specialization
+Programming Assignments from MIPT specialization and other courses
+
